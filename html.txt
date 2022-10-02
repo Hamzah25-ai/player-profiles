@@ -1,0 +1,61 @@
+to create a file, we use 'touch'
+to create a folder mkdir file name
+to move into a directory, we use cd 
+to move outside the directory, we use cd ..
+universal selector(css) is used to apply a general global style in html
+border radius is to curve the outline
+margin bottom is to create a space
+two types of box sizing are content box and border box.
+
+CSS SELECTORS
+universal selector(*)
+element selector(p, h1, span, div, hr, br, form etc.)
+
+1 rem is equivalent 16px
+rem, em, px- used to indicate how a big sumn is
+
+class selectors (.)
+Id selectors (#)
+element to element selector(div > p, h1, p)(you can also use commas instead of >)
+element.class selector(elementname.classname)
+grouping selector usedto select more than one element(h1,h2,h3,h4,h5,h6,p,div)
+pseudo selector(::) is used to selectwhat isnt a class or a div or any other stuffffffffffffffffffff.
+
+types of css positioning which are
+*static(default)
+*relative
+*fixed
+*absolute(works along w relative)
+*sticky
+
+FONT AWESOME
+
+all elementare block by default, for display
+
+create a form!!!!!!!!!!
+
+the default displayvalue for most elements is block or inline
+example of block elements- starts on a new line and takes up the available width
+<div>
+<h1>-<h6>
+<p>
+<form>
+<header>
+<footer>
+<section>
+
+inline element- does not start on new line, eg
+<span>
+<a>
+<img>
+
+display none is used to hide a property
+visibility:(hidden or visible) is also used to hide a propertybut a space will be left behind that sumn was there but it can be edited
+
+specificity hierachy
+inline styles
+ids
+classes, pseudo-classes
+elements and pseudo-elements
+
+use the !important to make it show
